@@ -1,0 +1,6 @@
+{
+  "name": "DesignBazaar",
+  "description": "Buy and sell digital designs including Video, Photo, House Design, and T-Shirt Design with online payment, seller earnings, 20% commission, and live customer service.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
